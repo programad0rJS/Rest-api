@@ -7,7 +7,7 @@
     "doc": "doc"
   },
   "scripts": {
-    "test": "start"
+    "start": "node index.js"
   },
   "author": "Josue Alexander Rodriguez Fsabi",
   "license": "ISC",

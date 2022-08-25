@@ -1,0 +1,18 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Api rest",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Josue Alexander Rodriguez Fsabi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "faker": "^5.5.3"
+  }
+}
